@@ -1,0 +1,9 @@
+h1. Ubiquity Commands
+
+Those are some of my Ubiquity commands. If you don't know about Ubiquity, check http://labs.mozilla.com/2008/08/introducing-ubiquity/
+
+If you want to install every command, visit http://yapok.org/ and Firefox will ask you if you want to.
+
+h2. Command list
+
+shorten: shorten an url using is.gd 
